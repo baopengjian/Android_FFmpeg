@@ -1,4 +1,5 @@
 # FFmpegDemo
+FFmpeg 在 Android NDK 下的实践示例，包含编译、JNI 集成、视频绘制与 OpenSL 音频播放。
 Android-NDK音视频开发：FFmpeg的使用
 
 [NDK开发汇总](https://blog.csdn.net/baopengjian/article/details/104615972)
